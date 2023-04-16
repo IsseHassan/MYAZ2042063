@@ -1,0 +1,12 @@
+C:\Users\Public\MYAZ2042063\DataStructures\Singly\bin\Debug\net6.0\Singly.deps.json
+C:\Users\Public\MYAZ2042063\DataStructures\Singly\bin\Debug\net6.0\Singly.dll
+C:\Users\Public\MYAZ2042063\DataStructures\Singly\bin\Debug\net6.0\Singly.pdb
+C:\Users\Public\MYAZ2042063\DataStructures\Singly\obj\Debug\net6.0\Singly.csproj.AssemblyReference.cache
+C:\Users\Public\MYAZ2042063\DataStructures\Singly\obj\Debug\net6.0\Singly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\MYAZ2042063\DataStructures\Singly\obj\Debug\net6.0\Singly.AssemblyInfoInputs.cache
+C:\Users\Public\MYAZ2042063\DataStructures\Singly\obj\Debug\net6.0\Singly.AssemblyInfo.cs
+C:\Users\Public\MYAZ2042063\DataStructures\Singly\obj\Debug\net6.0\Singly.csproj.CoreCompileInputs.cache
+C:\Users\Public\MYAZ2042063\DataStructures\Singly\obj\Debug\net6.0\Singly.dll
+C:\Users\Public\MYAZ2042063\DataStructures\Singly\obj\Debug\net6.0\refint\Singly.dll
+C:\Users\Public\MYAZ2042063\DataStructures\Singly\obj\Debug\net6.0\Singly.pdb
+C:\Users\Public\MYAZ2042063\DataStructures\Singly\obj\Debug\net6.0\ref\Singly.dll
