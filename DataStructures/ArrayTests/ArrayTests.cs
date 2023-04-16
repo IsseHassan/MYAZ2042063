@@ -53,3 +53,5 @@ namespace ArrayTests
             // Assert
             Assert.Equal(item, "Mehmet");
         }
+    }
+}
