@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LinkedListConsoleApp/1.0.0": {
+        "dependencies": {
+          "Singly": "1.0.0"
+        },
+        "runtime": {
+          "LinkedListConsoleApp.dll": {}
+        }
+      },
+      "Singly/1.0.0": {
+        "runtime": {
+          "Singly.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LinkedListConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Singly/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

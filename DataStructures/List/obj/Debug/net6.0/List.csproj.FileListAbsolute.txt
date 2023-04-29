@@ -1,0 +1,12 @@
+D:\MYAZ2042063\DataStructures\List\bin\Debug\net6.0\List.deps.json
+D:\MYAZ2042063\DataStructures\List\bin\Debug\net6.0\List.dll
+D:\MYAZ2042063\DataStructures\List\bin\Debug\net6.0\List.pdb
+D:\MYAZ2042063\DataStructures\List\obj\Debug\net6.0\List.csproj.AssemblyReference.cache
+D:\MYAZ2042063\DataStructures\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYAZ2042063\DataStructures\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+D:\MYAZ2042063\DataStructures\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+D:\MYAZ2042063\DataStructures\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+D:\MYAZ2042063\DataStructures\List\obj\Debug\net6.0\List.dll
+D:\MYAZ2042063\DataStructures\List\obj\Debug\net6.0\refint\List.dll
+D:\MYAZ2042063\DataStructures\List\obj\Debug\net6.0\List.pdb
+D:\MYAZ2042063\DataStructures\List\obj\Debug\net6.0\ref\List.dll

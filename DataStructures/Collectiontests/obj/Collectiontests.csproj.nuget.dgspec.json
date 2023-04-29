@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\Collectiontests\\Collectiontests.csproj": {}
+    "D:\\MYAZ2042063\\DataStructures\\Collectiontests\\Collectiontests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\Collectiontests\\Collectiontests.csproj": {
+    "D:\\MYAZ2042063\\DataStructures\\Collectiontests\\Collectiontests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\Collectiontests\\Collectiontests.csproj",
+        "projectUniqueName": "D:\\MYAZ2042063\\DataStructures\\Collectiontests\\Collectiontests.csproj",
         "projectName": "Collectiontests",
-        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\Collectiontests\\Collectiontests.csproj",
+        "projectPath": "D:\\MYAZ2042063\\DataStructures\\Collectiontests\\Collectiontests.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\Collectiontests\\obj\\",
+        "outputPath": "D:\\MYAZ2042063\\DataStructures\\Collectiontests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",

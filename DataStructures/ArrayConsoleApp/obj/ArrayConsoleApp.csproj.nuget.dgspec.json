@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\ArrayConsoleApp\\ArrayConsoleApp.csproj": {}
+    "D:\\MYAZ2042063\\DataStructures\\ArrayConsoleApp\\ArrayConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\ArrayConsoleApp\\ArrayConsoleApp.csproj": {
+    "D:\\MYAZ2042063\\DataStructures\\ArrayConsoleApp\\ArrayConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\ArrayConsoleApp\\ArrayConsoleApp.csproj",
+        "projectUniqueName": "D:\\MYAZ2042063\\DataStructures\\ArrayConsoleApp\\ArrayConsoleApp.csproj",
         "projectName": "ArrayConsoleApp",
-        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\ArrayConsoleApp\\ArrayConsoleApp.csproj",
+        "projectPath": "D:\\MYAZ2042063\\DataStructures\\ArrayConsoleApp\\ArrayConsoleApp.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\ArrayConsoleApp\\obj\\",
+        "outputPath": "D:\\MYAZ2042063\\DataStructures\\ArrayConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\Array\\Array.csproj": {
-                "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\Array\\Array.csproj"
+              "D:\\MYAZ2042063\\DataStructures\\Array\\Array.csproj": {
+                "projectPath": "D:\\MYAZ2042063\\DataStructures\\Array\\Array.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\Array\\Array.csproj": {
+    "D:\\MYAZ2042063\\DataStructures\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\Array\\Array.csproj",
+        "projectUniqueName": "D:\\MYAZ2042063\\DataStructures\\Array\\Array.csproj",
         "projectName": "Array",
-        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\Array\\Array.csproj",
+        "projectPath": "D:\\MYAZ2042063\\DataStructures\\Array\\Array.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructures\\Array\\obj\\",
+        "outputPath": "D:\\MYAZ2042063\\DataStructures\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
