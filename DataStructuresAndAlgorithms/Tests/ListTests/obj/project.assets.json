@@ -6116,8 +6116,8 @@
     },
     "List/1.0.0": {
       "type": "project",
-      "path": "../List/List.csproj",
-      "msbuildProject": "../List/List.csproj"
+      "path": "../../DataStructures/List/List.csproj",
+      "msbuildProject": "../../DataStructures/List/List.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\ListTests\\ListTests.csproj",
+      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\ListTests\\ListTests.csproj",
       "projectName": "ListTests",
-      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\ListTests\\ListTests.csproj",
+      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\ListTests\\ListTests.csproj",
       "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\ListTests\\obj\\",
+      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\ListTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6156,8 +6156,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\List\\List.csproj": {
-              "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\List\\List.csproj"
+            "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\List\\List.csproj": {
+              "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\List\\List.csproj"
             }
           }
         }

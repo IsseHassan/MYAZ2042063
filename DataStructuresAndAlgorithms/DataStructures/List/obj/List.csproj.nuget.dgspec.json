@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\List\\List.csproj": {}
+    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\List\\List.csproj": {}
   },
   "projects": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\List\\List.csproj": {
+    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\List\\List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\List\\List.csproj",
+        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\List\\List.csproj",
         "projectName": "List",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\List\\List.csproj",
+        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\List\\List.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\List\\obj\\",
+        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\List\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",

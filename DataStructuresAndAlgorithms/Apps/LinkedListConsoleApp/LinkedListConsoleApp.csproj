@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\LinkedList\LinkedList.csproj" />
+    <ProjectReference Include="..\..\DataStructures\LinkedList\LinkedList.csproj" />
   </ItemGroup>
 
 </Project>

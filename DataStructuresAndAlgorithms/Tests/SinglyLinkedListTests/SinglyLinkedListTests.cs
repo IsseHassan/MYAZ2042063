@@ -1,4 +1,5 @@
-﻿using LinkedList.Singly;    
+﻿using LinkedList.Singly;
+
 namespace SinglyLinkedListTests
 {
     public class SinglyLinkedListTests
