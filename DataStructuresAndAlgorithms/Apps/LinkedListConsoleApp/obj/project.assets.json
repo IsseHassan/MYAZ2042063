@@ -17,8 +17,8 @@
   "libraries": {
     "LinkedList/1.0.0": {
       "type": "project",
-      "path": "../LinkedList/LinkedList.csproj",
-      "msbuildProject": "../LinkedList/LinkedList.csproj"
+      "path": "../../DataStructures/LinkedList/LinkedList.csproj",
+      "msbuildProject": "../../DataStructures/LinkedList/LinkedList.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\LinkedListConsoleApp\\LinkedListConsoleApp.csproj",
+      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\LinkedListConsoleApp\\LinkedListConsoleApp.csproj",
       "projectName": "LinkedListConsoleApp",
-      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\LinkedListConsoleApp\\LinkedListConsoleApp.csproj",
+      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\LinkedListConsoleApp\\LinkedListConsoleApp.csproj",
       "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\LinkedListConsoleApp\\obj\\",
+      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\LinkedListConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\LinkedList\\LinkedList.csproj": {
-              "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\LinkedList\\LinkedList.csproj"
+            "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj": {
+              "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj"
             }
           }
         }

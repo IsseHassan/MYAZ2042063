@@ -6116,8 +6116,8 @@
     },
     "LinkedList/1.0.0": {
       "type": "project",
-      "path": "../LinkedList/LinkedList.csproj",
-      "msbuildProject": "../LinkedList/LinkedList.csproj"
+      "path": "../../DataStructures/LinkedList/LinkedList.csproj",
+      "msbuildProject": "../../DataStructures/LinkedList/LinkedList.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SinglyLinkedListTests\\SinglyLinkedListTests.csproj",
+      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\SinglyLinkedListTests\\SinglyLinkedListTests.csproj",
       "projectName": "SinglyLinkedListTests",
-      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SinglyLinkedListTests\\SinglyLinkedListTests.csproj",
+      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\SinglyLinkedListTests\\SinglyLinkedListTests.csproj",
       "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SinglyLinkedListTests\\obj\\",
+      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\SinglyLinkedListTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6156,8 +6156,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\LinkedList\\LinkedList.csproj": {
-              "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\LinkedList\\LinkedList.csproj"
+            "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj": {
+              "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj"
             }
           }
         }

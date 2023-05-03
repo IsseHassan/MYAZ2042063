@@ -6116,8 +6116,8 @@
     },
     "Array/1.0.0": {
       "type": "project",
-      "path": "../Array/Array.csproj",
-      "msbuildProject": "../Array/Array.csproj"
+      "path": "../../DataStructures/Array/Array.csproj",
+      "msbuildProject": "../../DataStructures/Array/Array.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\ArrayTests\\ArrayTests.csproj",
+      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\ArrayTests\\ArrayTests.csproj",
       "projectName": "ArrayTests",
-      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\ArrayTests\\ArrayTests.csproj",
+      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\ArrayTests\\ArrayTests.csproj",
       "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\ArrayTests\\obj\\",
+      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\ArrayTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6156,8 +6156,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Array\\Array.csproj": {
-              "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Array\\Array.csproj"
+            "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj": {
+              "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj"
             }
           }
         }

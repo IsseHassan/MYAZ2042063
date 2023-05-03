@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Array\\Array.csproj",
+      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj",
       "projectName": "Array",
-      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Array\\Array.csproj",
+      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj",
       "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Array\\obj\\",
+      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",

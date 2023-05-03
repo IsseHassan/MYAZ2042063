@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jLk0fmW7cOxcJh4rZ94gSZ2/SePgQjoF0LgTGn2PCTk6q/xF1XvOB6Apxc/p3SSy+XCIimkaROU20e0I26agWA==",
+  "dgSpecHash": "TypElSKlrWysvjsskVUzZXitx5Df41vcBe0SThBRdN2z5UujAt3jFe5JjawW4TuUv+pCQcX9WuMMQlX9QWA2Dw==",
   "success": true,
-  "projectFilePath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\ArrayTests\\ArrayTests.csproj",
+  "projectFilePath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\ArrayTests\\ArrayTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cadey\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\cadey\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
