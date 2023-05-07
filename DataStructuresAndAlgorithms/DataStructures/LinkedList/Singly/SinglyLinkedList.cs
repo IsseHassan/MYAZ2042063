@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,13 +7,21 @@ using System.Threading.Tasks;
 
 namespace LinkedList.Singly
 {
-    public class SinglyLinkedList<T>
+    public class SinglyLinkedList<T>:IEnumerable<T>
     {
         public SinglyLinkedListNode<T>? Head { get; set; }
         public SinglyLinkedList()
         {
 
         }
+        public SinglyLinkedList(IEnumerable<T> collection)
+        {
+            foreach (var item in collection)
+            {
+                AddFirst(item);
+            }
+        }
+
         /// <summary>
         /// Bağlı listenin başına eleman ekler
         /// </summary>
@@ -93,5 +102,125 @@ namespace LinkedList.Singly
             }
             throw new Exception("The node could not be found int the linked list.");
         }
+        /// <summary>
+        /// Week 4 - Verilen düğümden sonraya verilen T değerini ekler.
+        /// </summary>
+        /// <param name="node"></param>
+        /// <param name="item"></param>
+        /// <exception cref="NotImplementedException"></exception>
+
+        public void AddAfter(SinglyLinkedListNode<T> node, T item)
+        {
+            SinglyLinkedListNode<T> newNode = new SinglyLinkedListNode<T>(item);
+
+            if (Head is null)
+            {
+                AddFirst(item);
+            }
+            var Current = Head;
+            while (Current != null)
+            {
+                if (Current.Equals(node))
+                {
+                    newNode.Next = Current.Next;
+                    Current.Next = newNode;
+                    return;
+                }
+                Current = Current.Next;
+            }
+            throw new Exception("The node could not be found in the linked list.");
+        }
+
+        /// <summary>
+        /// Week 4 - Bağlı listenin başındaki düğümü çıkarır.
+        /// Çıkarılan düğümün değerini geri döndürür.
+        /// </summary>
+        /// <returns></returns>
+        public T RemoveFirst()
+        {
+            if (Head is null)
+            {
+                throw new Exception("Linked list is empty");
+            }
+            T item = Head.Value;
+            Head = Head.Next;
+            return item;
+        }
+
+        /// <summary>
+        /// Week 4 - Bağlı listenin sonundaki düğümü çıkarır.
+        /// Çıkarılan düğümün değerini geri döndürür.
+        /// </summary>
+        /// <returns></returns>
+        public T RemoveLast()
+        {
+            if (Head is null)
+            {
+                throw new Exception("Linked list is empty");
+            }
+
+            var Current = Head;
+            if(Current.Next is null)
+            {
+                T item = Current.Value;
+                Head = null;
+                return item;
+            }
+            while(Current is not null)
+            {
+                if(Current.Next.Next is null)
+                {
+                    T item = Current.Next.Value;
+                    Current.Next = null;
+                    return item;
+                }
+                Current = Current.Next;
+            }
+            throw new Exception();
+        }
+        /// <summary>
+        /// Week 4 - Bağlı listeden verilen düğümü çıkarır.
+        /// Eğer düğüm bağlı listede bulunmuyorsa hata fırlatır.
+        /// Çıkarılan değeri geri döndürür.
+        /// </summary>
+        /// <param name="node"></param>
+        /// <returns></returns>
+        /// <exception cref="NotImplementedException"></exception>
+         public T Remove(SinglyLinkedListNode<T> node)
+        {
+            if (Head is null)
+            {
+                throw new Exception("Linked List is empty");
+            }
+
+            if (Head.Value.Equals(node.Value))
+            {
+               return RemoveFirst();
+                
+            }
+            var Current = Head;
+            while(Current.Next != null)
+            {
+                if (Current.Next.Value.Equals(node.Value))
+                {
+                    T item = node.Value;
+                    Current.Next = Current.Next.Next;
+                    return item;
+                }
+                Current = Current.Next;
+            }
+            throw new Exception("Node not found!");
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            return new SinglyLinkedListEnumerator<T>(Head);
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+           return GetEnumerator();
+        }
     }
+
 }

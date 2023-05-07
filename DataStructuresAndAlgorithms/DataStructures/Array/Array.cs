@@ -1,9 +1,14 @@
-﻿using System;
+﻿ using System;
 using System.Collections;
 
 namespace Array;
 public class Array : IEnumerable
 {
+    public Object[] InnerArray
+    {
+        get { return _InnerArray; }
+        set { _InnerArray = value; }
+    }
     // Object
     // Type : Array
     private Object[] _InnerArray; // null
