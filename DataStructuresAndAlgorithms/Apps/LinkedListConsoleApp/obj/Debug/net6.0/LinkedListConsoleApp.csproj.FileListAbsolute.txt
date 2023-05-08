@@ -34,9 +34,6 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\LinkedListConsoleApp\obj\Debug\net6.0
 D:\MYAZ2042063\DataStructuresAndAlgorithms\LinkedListConsoleApp\obj\Debug\net6.0\LinkedListConsoleApp.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\LinkedListConsoleApp\obj\Debug\net6.0\LinkedListConsoleApp.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\LinkedListConsoleApp\obj\Debug\net6.0\ref\LinkedListConsoleApp.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\obj\Debug\net6.0\LinkedListConsoleApp.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\obj\Debug\net6.0\refint\LinkedListConsoleApp.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\obj\Debug\net6.0\LinkedListConsoleApp.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\bin\Debug\net6.0\LinkedListConsoleApp.exe
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\bin\Debug\net6.0\LinkedListConsoleApp.deps.json
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\bin\Debug\net6.0\LinkedListConsoleApp.runtimeconfig.json
@@ -50,5 +47,8 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\obj\Debug\n
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\obj\Debug\net6.0\LinkedListConsoleApp.AssemblyInfo.cs
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\obj\Debug\net6.0\LinkedListConsoleApp.csproj.CoreCompileInputs.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\obj\Debug\net6.0\LinkedListConsoleApp.csproj.CopyComplete
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\obj\Debug\net6.0\LinkedListConsoleApp.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\obj\Debug\net6.0\refint\LinkedListConsoleApp.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\obj\Debug\net6.0\LinkedListConsoleApp.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\obj\Debug\net6.0\LinkedListConsoleApp.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\LinkedListConsoleApp\obj\Debug\net6.0\ref\LinkedListConsoleApp.dll

@@ -202,12 +202,9 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\ListTests\obj\Debug\net6.0\refint\Lis
 D:\MYAZ2042063\DataStructuresAndAlgorithms\ListTests\obj\Debug\net6.0\ListTests.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\ListTests\obj\Debug\net6.0\ListTests.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\ListTests\obj\Debug\net6.0\ref\ListTests.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\obj\Debug\net6.0\ListTests.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\obj\Debug\net6.0\refint\ListTests.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\obj\Debug\net6.0\ListTests.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\bin\Debug\net6.0\CoverletSourceRootsMapping
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\bin\Debug\net6.0\testhost.exe
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\bin\Debug\net6.0\testhost.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\bin\Debug\net6.0\testhost.exe
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
@@ -302,5 +299,8 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\obj\Debug\net6.0\List
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\obj\Debug\net6.0\ListTests.AssemblyInfo.cs
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\obj\Debug\net6.0\ListTests.csproj.CoreCompileInputs.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\obj\Debug\net6.0\ListTests.csproj.CopyComplete
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\obj\Debug\net6.0\ListTests.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\obj\Debug\net6.0\refint\ListTests.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\obj\Debug\net6.0\ListTests.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\obj\Debug\net6.0\ListTests.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ListTests\obj\Debug\net6.0\ref\ListTests.dll
