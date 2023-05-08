@@ -9,7 +9,9 @@ namespace LinkedList.Singly
 {
     public class SinglyLinkedList<T>:IEnumerable<T>
     {
+        private int _count = 0 ;
         public SinglyLinkedListNode<T>? Head { get; set; }
+        public int Count => _count;
         public SinglyLinkedList()
         {
 
