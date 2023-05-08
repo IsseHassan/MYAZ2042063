@@ -5,3 +5,5 @@
 * Week 02 - IEnumerable, params (Constructor overloading)
 * Week 03 - Collections
 * Week 04 - SinglyLinkedList
+* Week 05 - IEnumerable (SinglyLinkedListEnumerator) - DoublyLinkedList
+* Week 06 - Stack
