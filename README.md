@@ -8,4 +8,11 @@
 * Week 05 - IEnumerable (SinglyLinkedListEnumerator) - DoublyLinkedList
 * Week 06 - Stack
 * Week 07 - Queue
-
+* Week 08 - Algoritma Analizi
+    - Asymptotic Analysis
+    - Runnig-Time Analysis 
+    - Big O
+    - Recursion
+        - Substitution Method
+        - Iteration Method
+        - Master Theorem
