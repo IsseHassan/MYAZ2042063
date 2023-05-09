@@ -2,16 +2,12 @@
 using System.Collections;
 
 namespace Array;
-public class Array : IEnumerable
+public class Array<T> : IEnumerable
 {
-    public Object[] InnerArray
-    {
-        get { return _InnerArray; }
-        set { _InnerArray = value; }
-    }
+  
     // Object
     // Type : Array
-    private Object[] _InnerArray; // null
+    private T[] _InnerArray; // null
     private int index = 0;
     public int Count => index;  // Dizi kaç eleman var?
     public int Capacity => _InnerArray.Length;
@@ -19,17 +15,17 @@ public class Array : IEnumerable
 
     public Array()
     {
-        _InnerArray = new Object[4]; // Block allocation
+        _InnerArray = new T[4]; // Block allocation
     }
 
-    public Array(params Object[] init)
+    public Array(params T[] init)
     {
-        var newArray = new Object[init.Length];
+        var newArray = new T[init.Length];
         System.Array.Copy(init, newArray, init.Length);
         _InnerArray = newArray;
     }
 
-    public void Add(Object item)
+    public void Add(T item)
     {
         if (index == _InnerArray.Length)
         {
@@ -40,9 +36,9 @@ public class Array : IEnumerable
         index++;
     }
 
-    private void DoubleArray(object[] array)
+    private void DoubleArray(T[] array)
     {
-        var newArray = new Object[array.Length * 2];
+        var newArray = new T[array.Length * 2];
         System.Array.Copy(array, newArray, array.Length);
         _InnerArray = newArray;
     }
@@ -56,7 +52,7 @@ public class Array : IEnumerable
     ///     Eğer pozisyon sınırlar dışındaysa IndexOutOfRangeException hata fırlatır.
     /// </returns>
     /// <exception cref="NotImplementedException"></exception>
-    public Object GetItem(int position)
+    public T GetItem(int position)
     {
         // throw new NotImplementedException();
         if (position < 0 || position >= _InnerArray.Length)
@@ -72,7 +68,7 @@ public class Array : IEnumerable
     /// </summary>
     /// <param name="position"></param>
     /// <param name="item"></param>
-    public void SetItem(int position, Object item)
+    public void SetItem(int position, T item)
     {
         if (position < 0 || position >= _InnerArray.Length)
             throw new IndexOutOfRangeException();
@@ -87,10 +83,10 @@ public class Array : IEnumerable
     /// </summary>
     /// <param name="position"></param>
     /// <exception cref="NotImplementedException"></exception>
-    public Object RemoveItem(int position)
+    public T RemoveItem(int position)
     {
         var item = GetItem(position);
-        SetItem(position, null);
+        SetItem(position, default);
         for (int i = position; i < Count - 1; i++)
         {
             // _InnerArray[i] = _InnerArray[i + 1];
@@ -99,7 +95,7 @@ public class Array : IEnumerable
         index--;
         if (index == _InnerArray.Length / 2)
         {
-            var newArray = new Object[_InnerArray.Length / 2];
+            var newArray = new T[_InnerArray.Length / 2];
             System.Array.Copy(_InnerArray, newArray, newArray.Length);
             _InnerArray = newArray;
         }
@@ -143,9 +139,9 @@ public class Array : IEnumerable
     /// Verilen pozisyon bilgileri kontrol edilmelidir.
     /// </summary>
     /// <returns></returns>
-    public Object[] Copy(int v1, int v2)
+    public T[] Copy(int v1, int v2)
     {
-        var newArray = new Object[v2]; // v2 - v1
+        var newArray = new T[v2]; // v2 - v1
         int j = 0;
         for (int i = v1; i < v2; i++)
         {

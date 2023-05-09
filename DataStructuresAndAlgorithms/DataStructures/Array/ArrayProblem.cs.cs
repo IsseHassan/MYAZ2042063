@@ -1,14 +1,9 @@
-﻿using Array;
+﻿
 
 namespace Array
 {
     partial class ArrayProblem
     {
-        public  Array array { get; set; }
-        public ArrayProblem()
-        {
-            array = new Array(default);
-        }
       
         /// <summary>
         /// Concate fonksiyonu parametre olarak aldığı array ifadesini 
