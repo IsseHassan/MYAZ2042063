@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "NcRbULdW1ukQh81d0sZ9kwZq84PrO0axRhKChjM0T+cccHVUH84V2+OIGax/qgQ7Swe7SJph8Ka5I34Fo+CICw==",
+  "dgSpecHash": "K7H2Yxuen+bcwXqJ0hcONZBbymxK8Ym0z24EfM53PVNH7gg+GIL8yC/O+olaKG/4EZkKTVg52IcLwEXDNFy/Ig==",
   "success": true,
   "projectFilePath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithms\\SortingAlgorithm\\SortingAlgorithm.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\cadey\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+    "C:\\Users\\cadey\\.nuget\\packages\\comparenetobjects\\4.79.0\\comparenetobjects.4.79.0.nupkg.sha512",
+    "C:\\Users\\cadey\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\cadey\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
