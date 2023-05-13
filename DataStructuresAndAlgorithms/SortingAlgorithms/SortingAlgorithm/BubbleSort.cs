@@ -1,19 +1,8 @@
-﻿using MathNet.Numerics;
-
-namespace SortingAlgorithm
+﻿namespace SortingAlgorithm
 {
     public class BubbleSort
-    {
-        public static class Sorting
-    {
-        public static void Swap<T>(T[] arr, int i, int j)
-        {
-            T temp = arr[i];
-            arr[i] = arr[j];
-            arr[j] = temp;
-        }
-    }
-        public static void Sort<T>(T[] arr)
+    {        
+       public static void Sort<T>(T[] arr)
             where T : IComparable<T>
         {
             int n = arr.Length;
@@ -23,9 +12,7 @@ namespace SortingAlgorithm
                     if (arr[j].CompareTo(arr[j + 1]) >= 1)
                         Sorting.Swap(arr, j, j + 1);
                   
-                }
-            
-        }
-        
+                }  
+        } 
     }
 }

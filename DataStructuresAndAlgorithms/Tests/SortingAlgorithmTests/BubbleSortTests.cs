@@ -11,7 +11,7 @@ namespace SortingAlgorithmTests
         }
 
         [Fact]
-        public void ubble_Sort_Test()
+        public void Bubble_Sort_Test()
         {
             BubbleSort.Sort(_array);
 
