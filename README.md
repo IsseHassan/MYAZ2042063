@@ -16,3 +16,5 @@
         - Substitution Method
         - Iteration Method
         - Master Theorem
+* Week 09 - Sorting Algorithms
+    - Bubble Sort
