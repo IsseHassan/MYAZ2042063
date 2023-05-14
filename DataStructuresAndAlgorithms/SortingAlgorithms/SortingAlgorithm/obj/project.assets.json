@@ -39,6 +39,16 @@
         "runtime": {
           "lib/netcoreapp2.0/_._": {}
         }
+      },
+      "Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utilities.dll": {}
+        }
       }
     }
   },
@@ -170,12 +180,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Utilities/1.0.0": {
+      "type": "project",
+      "path": "../../Shared/Utilities/Utilities.csproj",
+      "msbuildProject": "../../Shared/Utilities/Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "CompareNETObjects >= 4.79.0",
-      "MathNet.Numerics >= 5.0.0"
+      "MathNet.Numerics >= 5.0.0",
+      "Utilities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -204,7 +220,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Shared\\Utilities\\Utilities.csproj": {
+              "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Shared\\Utilities\\Utilities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

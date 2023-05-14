@@ -1,0 +1,15 @@
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net6.0\SortingAlgorithmsApp.csproj.AssemblyReference.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net6.0\SortingAlgorithmsApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net6.0\SortingAlgorithmsApp.AssemblyInfoInputs.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net6.0\SortingAlgorithmsApp.AssemblyInfo.cs
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net6.0\SortingAlgorithmsApp.csproj.CoreCompileInputs.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\bin\Debug\net6.0\SortingAlgorithmsApp.exe
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\bin\Debug\net6.0\SortingAlgorithmsApp.deps.json
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\bin\Debug\net6.0\SortingAlgorithmsApp.runtimeconfig.json
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\bin\Debug\net6.0\SortingAlgorithmsApp.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\bin\Debug\net6.0\SortingAlgorithmsApp.pdb
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net6.0\SortingAlgorithmsApp.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net6.0\refint\SortingAlgorithmsApp.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net6.0\SortingAlgorithmsApp.pdb
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net6.0\SortingAlgorithmsApp.genruntimeconfig.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmsApp\obj\Debug\net6.0\ref\SortingAlgorithmsApp.dll

@@ -1823,13 +1823,24 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "CompareNETObjects": "4.79.0",
-          "MathNet.Numerics": "5.0.0"
+          "MathNet.Numerics": "5.0.0",
+          "Utilities": "1.0.0"
         },
         "compile": {
           "bin/placeholder/SortingAlgorithm.dll": {}
         },
         "runtime": {
           "bin/placeholder/SortingAlgorithm.dll": {}
+        }
+      },
+      "Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utilities.dll": {}
         }
       }
     }
@@ -6200,6 +6211,11 @@
       "type": "project",
       "path": "../../SortingAlgorithms/SortingAlgorithm/SortingAlgorithm.csproj",
       "msbuildProject": "../../SortingAlgorithms/SortingAlgorithm/SortingAlgorithm.csproj"
+    },
+    "Utilities/1.0.0": {
+      "type": "project",
+      "path": "../../Shared/Utilities/Utilities.csproj",
+      "msbuildProject": "../../Shared/Utilities/Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
