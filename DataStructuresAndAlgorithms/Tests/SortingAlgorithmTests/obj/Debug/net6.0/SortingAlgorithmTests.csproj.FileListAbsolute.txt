@@ -111,6 +111,7 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\SortingAlgorithmTests.runtimeconfig.json
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\SortingAlgorithmTests.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\SortingAlgorithmTests.pdb
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\KellermanSoftware.Compare-NET-Objects.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\MathNet.Numerics.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
@@ -204,3 +205,5 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\ref\SortingAlgorithmTests.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\Utilities.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\Utilities.pdb
