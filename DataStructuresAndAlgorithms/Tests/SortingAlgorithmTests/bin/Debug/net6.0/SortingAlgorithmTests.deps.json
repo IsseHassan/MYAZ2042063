@@ -1093,10 +1093,16 @@
       "SortingAlgorithm/1.0.0": {
         "dependencies": {
           "CompareNETObjects": "4.79.0",
-          "MathNet.Numerics": "5.0.0"
+          "MathNet.Numerics": "5.0.0",
+          "Utilities": "1.0.0"
         },
         "runtime": {
           "SortingAlgorithm.dll": {}
+        }
+      },
+      "Utilities/1.0.0": {
+        "runtime": {
+          "Utilities.dll": {}
         }
       }
     }
@@ -1766,6 +1772,11 @@
       "hashPath": "xunit.runner.visualstudio.2.4.5.nupkg.sha512"
     },
     "SortingAlgorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utilities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
