@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Utilities", "Shared\Utiliti
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SortingAlgorithmsApp", "SortingAlgorithmsApp", "{14121467-7A4C-4704-BBE6-73B91D3D4340}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithmsApp", "SortingAlgorithmsApp\SortingAlgorithmsApp.csproj", "{C13AEA3D-A5A0-47A4-96AE-4DAAA8E690CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortingAlgorithmsApp", "SortingAlgorithmsApp\SortingAlgorithmsApp.csproj", "{C13AEA3D-A5A0-47A4-96AE-4DAAA8E690CD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeApp", "Apps\EmployeeApp\EmployeeApp.csproj", "{E4D26D4D-184A-4CB2-A1C3-E414B9C54A19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{C13AEA3D-A5A0-47A4-96AE-4DAAA8E690CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C13AEA3D-A5A0-47A4-96AE-4DAAA8E690CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C13AEA3D-A5A0-47A4-96AE-4DAAA8E690CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D26D4D-184A-4CB2-A1C3-E414B9C54A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D26D4D-184A-4CB2-A1C3-E414B9C54A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D26D4D-184A-4CB2-A1C3-E414B9C54A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D26D4D-184A-4CB2-A1C3-E414B9C54A19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -173,6 +179,7 @@ Global
 		{0F2E4988-258F-4E49-A2B4-4F1EF7606778} = {767B15BE-C942-4569-AD22-84A94B3A8095}
 		{3BCF53BC-803B-41A4-B63C-941FB22442E4} = {A188E0EA-F9B3-4AD4-A54F-DABBD94057C4}
 		{C13AEA3D-A5A0-47A4-96AE-4DAAA8E690CD} = {14121467-7A4C-4704-BBE6-73B91D3D4340}
+		{E4D26D4D-184A-4CB2-A1C3-E414B9C54A19} = {A514DD71-164C-4647-A2F4-462151EB9D5B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFF831F0-7B6F-4DD3-879A-78ED61724E75}
