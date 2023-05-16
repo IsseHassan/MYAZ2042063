@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "CJbO06f88aaoZr8yBeWaBlrU3g/RlYtaqPJjCNvtonSqblJlOcNgqfYsb0P2Z3QM9ZEQZShMh1eevuKvfX6mdw==",
+  "dgSpecHash": "LNrHnA0v5LgeE1Es2xHsHSQSGo+iFPt8Ya0/B7R0P1yViKy8iqMA+cpkPNpg4xyXS1RxNsGH5FRSoa0J4zOvPw==",
   "success": true,
   "projectFilePath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\SortingAlgorithmsApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\cadey\\.nuget\\packages\\microsoft.data.sqlite\\7.0.5\\microsoft.data.sqlite.7.0.5.nupkg.sha512",
+    "C:\\Users\\cadey\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
+    "C:\\Users\\cadey\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\cadey\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\cadey\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "C:\\Users\\cadey\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\cadey\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\cadey\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }
