@@ -32,6 +32,7 @@ when creating a new employee, you can send a POST request with the following JSO
   - "lastName": "Doe",
   - "title": "Software Engineer",
   - "salary": 50000.0
+  
  }
 
 The API will respond with the created employee object, including the assigned ID.
