@@ -202,8 +202,6 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\SinglyLinkedListTests\obj\Debug\net6.
 D:\MYAZ2042063\DataStructuresAndAlgorithms\SinglyLinkedListTests\obj\Debug\net6.0\SinglyLinkedListTests.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\SinglyLinkedListTests\obj\Debug\net6.0\SinglyLinkedListTests.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\SinglyLinkedListTests\obj\Debug\net6.0\ref\SinglyLinkedListTests.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\xunit.core.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\obj\Debug\net6.0\SinglyLinkedListTests.csproj.CoreCompileInputs.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\CoverletSourceRootsMapping
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\testhost.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\testhost.exe
@@ -226,6 +224,7 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\NuGet.Frameworks.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\xunit.abstractions.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\xunit.assert.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\xunit.core.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\xunit.execution.dotnet.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
@@ -298,6 +297,7 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\obj\Debug
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\obj\Debug\net6.0\SinglyLinkedListTests.GeneratedMSBuildEditorConfig.editorconfig
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\obj\Debug\net6.0\SinglyLinkedListTests.AssemblyInfoInputs.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\obj\Debug\net6.0\SinglyLinkedListTests.AssemblyInfo.cs
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\obj\Debug\net6.0\SinglyLinkedListTests.csproj.CoreCompileInputs.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\obj\Debug\net6.0\SinglyLinkedListTests.csproj.CopyComplete
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\obj\Debug\net6.0\SinglyLinkedListTests.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\obj\Debug\net6.0\refint\SinglyLinkedListTests.dll

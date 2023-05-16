@@ -6,19 +6,20 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Get the user's chosen sorting option
         Console.WriteLine("Enter the sorting option");
-        Console.WriteLine("1 = sort by salary using bubble sort");
-        Console.WriteLine("2 = sort by firstname using insertion sort");
-        Console.WriteLine("3 = sort by lastname using merge sort");
-        Console.WriteLine("4 = sort by salary using quick sort");
-        Console.Write("Make choice: ");
+        Console.WriteLine("1: sort by salary using bubble sort");
+        Console.WriteLine("2: sort by firstname using insertion sort");
+        Console.WriteLine("3: sort by lastname using merge sort");
+        Console.WriteLine("4: sort by salary using quick sort");
+        Console.Write("Make a choice: ");
         int option = int.Parse(Console.ReadLine());
+
         // Create a connection to the database file
         string connectionString = "Data Source=D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\Employee.db";
         using (var connection = new SqliteConnection(connectionString))
         {
             connection.Open();
+            
 
             // Read the data from the employee table
             var command = new SqliteCommand("SELECT * FROM Employees", connection);
@@ -64,14 +65,14 @@ class Program
             }
             
            
-            Console.WriteLine("ID\tFirst Name\tLast Name\tSalary");
+            Console.WriteLine("ID\tFirst Name\tLast Name\tSalary\tTitle");
             foreach (var employee in employees)
             {
                 Console.WriteLine($"{employee.Id,-7} {employee.FirstName,-15} {employee.LastName,-15} {employee.Salary,-10}");
             }
-            Console.WriteLine($"\nData {sortingOption}:");
-
+            Console.WriteLine($"\nData {sortingOption}:");   
         }
+        Console.ReadKey();
     }
     static void BubbleSortBySalary(List<Employee> employees)
     {
