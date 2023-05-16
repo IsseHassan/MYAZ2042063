@@ -27,9 +27,10 @@ EmployeeApp is a project that provides functionality for managing employee infor
 The API accepts and returns data in JSON format. For example, 
 when creating a new employee, you can send a POST request with the following JSON payload:
 * {
-- "firstName": "John",
-- "lastName": "Doe",
-- "title": "Software Engineer",
-- "salary": 50000.0
+"firstName": "John",
+"lastName": "Doe",
+"title": "Software Engineer",
+"salary": 50000.0
 * }
+
 The API will respond with the created employee object, including the assigned ID.
