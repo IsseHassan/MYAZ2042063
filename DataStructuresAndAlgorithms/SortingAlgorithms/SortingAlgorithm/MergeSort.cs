@@ -27,42 +27,8 @@ namespace SortingAlgorithm
                 Merge(Array, left, middle, right);
             }
         }
-        //private static void Merge<T>(T[]Array, int middle, int left, int right)
-        //       where T : IComparable
-        //   {
-        //       T[] leftArray = new T[middle - left + 1];
-        //       T[] rightArray = new T[right - middle];
-
-        //       System.Array.Copy(Array, left, leftArray, 0, middle - left + 1);
-        //       System.Array.Copy(Array, middle + 1, rightArray, 0, right - middle);
-
-        //       int i = 0;
-        //       int j = 0;
-        //       for (int k = left; k < right + 1; k++) 
-        //       {
-        //           if (i == leftArray.Length)
-        //           {
-        //               Array[k] = rightArray[j];
-        //               j++;
-        //           }
-        //           else if (j == rightArray.Length)
-        //           {
-        //               Array[k] = leftArray[i];
-        //               i++;
-        //           }
-        //           else if (leftArray[i].CompareTo(rightArray[j]) < 0) 
-        //           {
-        //               Array[k]= leftArray[i];
-        //               i++;
-        //           }
-        //           else
-        //           {
-        //               Array[k] = rightArray[j];
-        //               j++;
-        //           }
-        //       }
-        //   }
-
+       
+      
         private static void Merge<T>(T[] Array, int left, int middle, int right)
             where T : IComparable
         {

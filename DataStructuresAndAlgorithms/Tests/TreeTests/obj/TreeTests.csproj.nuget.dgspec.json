@@ -4,14 +4,14 @@
     "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\TreeTests\\TreeTests.csproj": {}
   },
   "projects": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\Trees\\Trees.csproj": {
+    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Trees\\Trees.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\Trees\\Trees.csproj",
+        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Trees\\Trees.csproj",
         "projectName": "Trees",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\Trees\\Trees.csproj",
+        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Trees\\Trees.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\Trees\\obj\\",
+        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Trees\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\Trees\\Trees.csproj": {
-                "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\Trees\\Trees.csproj"
+              "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Trees\\Trees.csproj": {
+                "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Trees\\Trees.csproj"
               }
             }
           }
@@ -101,13 +101,13 @@
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.3.2, )"
+              "version": "[17.6.0, )"
             },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[3.2.0, )"
             },
             "xunit": {
               "target": "Package",
