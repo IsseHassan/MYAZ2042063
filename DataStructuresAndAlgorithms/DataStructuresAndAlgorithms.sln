@@ -65,8 +65,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeTests", "Tests\TreeTest
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreesEmplementation", "Datastructures\TreesEmplementation\TreesEmplementation.csproj", "{3712FD4C-1448-4913-95C6-A9B668DEC6CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreesEmplementionTests", "Tests\TreesEmplementionTests\TreesEmplementionTests.csproj", "{209AE184-02FD-4CA7-B038-F8BEAF2C6024}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -173,10 +171,6 @@ Global
 		{3712FD4C-1448-4913-95C6-A9B668DEC6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3712FD4C-1448-4913-95C6-A9B668DEC6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3712FD4C-1448-4913-95C6-A9B668DEC6CA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{209AE184-02FD-4CA7-B038-F8BEAF2C6024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{209AE184-02FD-4CA7-B038-F8BEAF2C6024}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{209AE184-02FD-4CA7-B038-F8BEAF2C6024}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{209AE184-02FD-4CA7-B038-F8BEAF2C6024}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -207,7 +201,6 @@ Global
 		{1270FBD1-5742-4CBF-A8AC-080922C9B469} = {473E64C3-399E-4071-AD2B-EF82BDBC896D}
 		{F901C215-A560-4CED-B711-2BCC22D37AEE} = {767B15BE-C942-4569-AD22-84A94B3A8095}
 		{3712FD4C-1448-4913-95C6-A9B668DEC6CA} = {473E64C3-399E-4071-AD2B-EF82BDBC896D}
-		{209AE184-02FD-4CA7-B038-F8BEAF2C6024} = {767B15BE-C942-4569-AD22-84A94B3A8095}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EFF831F0-7B6F-4DD3-879A-78ED61724E75}
