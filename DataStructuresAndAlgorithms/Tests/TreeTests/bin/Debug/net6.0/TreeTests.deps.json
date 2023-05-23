@@ -10,6 +10,7 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": "17.6.0",
           "Trees": "1.0.0",
+          "TreesEmplementation": "1.0.0",
           "coverlet.collector": "3.2.0",
           "xunit": "2.4.2",
           "xunit.runner.visualstudio": "2.4.5"
@@ -1025,6 +1026,11 @@
         "runtime": {
           "Trees.dll": {}
         }
+      },
+      "TreesEmplementation/1.0.0": {
+        "runtime": {
+          "TreesEmplementation.dll": {}
+        }
       }
     }
   },
@@ -1658,6 +1664,11 @@
       "hashPath": "xunit.runner.visualstudio.2.4.5.nupkg.sha512"
     },
     "Trees/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TreesEmplementation/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

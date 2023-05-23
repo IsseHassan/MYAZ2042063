@@ -1722,6 +1722,16 @@
         "runtime": {
           "bin/placeholder/Trees.dll": {}
         }
+      },
+      "TreesEmplementation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TreesEmplementation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TreesEmplementation.dll": {}
+        }
       }
     }
   },
@@ -5522,12 +5532,18 @@
       "type": "project",
       "path": "../../DataStructures/Trees/Trees.csproj",
       "msbuildProject": "../../DataStructures/Trees/Trees.csproj"
+    },
+    "TreesEmplementation/1.0.0": {
+      "type": "project",
+      "path": "../../Datastructures/TreesEmplementation/TreesEmplementation.csproj",
+      "msbuildProject": "../../Datastructures/TreesEmplementation/TreesEmplementation.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Microsoft.NET.Test.Sdk >= 17.6.0",
       "Trees >= 1.0.0",
+      "TreesEmplementation >= 1.0.0",
       "coverlet.collector >= 3.2.0",
       "xunit >= 2.4.2",
       "xunit.runner.visualstudio >= 2.4.5"
@@ -5560,6 +5576,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj": {
+              "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj"
+            },
             "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Trees\\Trees.csproj": {
               "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Trees\\Trees.csproj"
             }

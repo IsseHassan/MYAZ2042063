@@ -26,6 +26,5 @@ namespace TreesEmplementation
             return $"{Value}";
         }
 
-        
     }
 }

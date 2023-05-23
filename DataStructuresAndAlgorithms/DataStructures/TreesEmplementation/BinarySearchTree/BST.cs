@@ -13,80 +13,92 @@ namespace TreesEmplementation
         {
             foreach (var item in collection)
             {
-                Insert(item);
+                Add(item);
             }
         }
-        public void Insert(T value)
+        public void Add(T value)
         {
-            Node<T> newNode = new Node<T>(value);
+            if (value == null) 
+            {
+                throw new ArgumentNullException("value"); 
+            }
+            var newNode = new Node<T>(value);
             if (Root == null)
             {
                 Root = newNode;
                 return;
             }
-            Node<T> current = Root;
+
+            var current = Root;
             Node<T> parent;
-            while (current != null)
+            while (true)
             {
                 parent = current;
-
+                // Sol-taraf
                 if (value.CompareTo(current.Value) < 0)
                 {
                     current = current.Left;
+                    if (current == null)
+                    {
+                        parent.Left = newNode;
+                        return;
+                    }
                 }
-                else if (value.CompareTo(current.Value) > 0)
+                // Sağ-taraf
+                else
                 {
                     current = current.Right;
-                }
-                else
-                {
-                    return;
-                }
-                if (value.CompareTo(parent.Value) < 0)
-                {
-                    parent.Left = newNode;
-                }
-                else
-                {
-                    parent.Right = newNode;
+                    if (current == null)
+                    {
+                        parent.Right = newNode;
+                        return;
+                    }
                 }
             }
-
         }
 
-        public void PreOrderRecursive(Node<T> node)
+        public List<T> PreOrderRecursive(Node<T> node)
         {
+            List<T> list = new List<T>();
             if (node == null)
             {
-                return;
+                return list;
             }
-            Console.Write(node.Value + " ");
-            PreOrderRecursive(node.Left);
-            PreOrderRecursive(node.Right);
+            list.Add(node.Value);
+            list.AddRange(PreOrderRecursive(node.Left));
+            list.AddRange(PreOrderRecursive(node.Right));
+            return list;    
         }
+   
 
-        public void PreOrderIterative(Node<T> node)
+        public List<T> PreOrderIterative(Node<T> node)
         {
+            var list = new List<T>(); 
             if (node == null)
             {
-                return;
+                throw new ArgumentNullException(nameof(node),"The node is empty");
+               
             }
-            Stack<Node<T>> stack = new Stack<Node<T>>();
-            stack.Push(node);
-            while (stack.Count > 0)
+            Stack<Node<T>> stack = new Stack<Node<T>>(); 
+            stack.Push(node); 
+            while (stack.Count > 0) 
             {
-                Node<T> current = stack.Pop();
-                Console.Write(current.Value + " ");
-                if (current.Right != null)
+                Node<T> current = stack.Pop(); 
+                list.Add(current.Value); 
+                if (current.Right != null) 
                 {
-                    stack.Push(current.Right);
+                    stack.Push(current.Right); 
                 }
-                if (current.Left != null)
+                if (current.Left != null) 
                 {
-                    stack.Push(current.Left);
+                    stack.Push(current.Left); 
                 }
             }
+            return list; 
         }
+
+
+
         public int CountLeaves(Node<T> node)
         {
             // Base case: 
