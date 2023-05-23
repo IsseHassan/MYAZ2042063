@@ -202,6 +202,7 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\SinglyLinkedListTests\obj\Debug\net6.
 D:\MYAZ2042063\DataStructuresAndAlgorithms\SinglyLinkedListTests\obj\Debug\net6.0\SinglyLinkedListTests.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\SinglyLinkedListTests\obj\Debug\net6.0\SinglyLinkedListTests.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\SinglyLinkedListTests\obj\Debug\net6.0\ref\SinglyLinkedListTests.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\xunit.core.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\CoverletSourceRootsMapping
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\testhost.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\testhost.exe
@@ -224,7 +225,6 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\NuGet.Frameworks.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\xunit.abstractions.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\xunit.assert.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\xunit.core.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\xunit.execution.dotnet.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SinglyLinkedListTests\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll

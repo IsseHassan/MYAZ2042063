@@ -19,7 +19,12 @@
 * Week 09 - Sorting Algorithms
     - Bubble Sort
 * Week 10 - Sorting Algorithms
+
     - Insertion Sort
     - Selection Sort
     - Quick Sort
     - Merge Sort
+* Week 11 - Trees
+    - Trees
+    - Binary Trees
+    - Binary Search Trees
