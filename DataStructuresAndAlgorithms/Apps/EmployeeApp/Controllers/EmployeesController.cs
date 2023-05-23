@@ -43,18 +43,7 @@ namespace EmployeeApp.Controllers
             
         }
 
-        [HttpDelete("{id:int}")]
-        public IActionResult DeleteEmployee(int id)
-        {
-            var emp = _context.Employees.SingleOrDefault(e => e.Id == id);
-            if (emp == null)
-            {
-                return NotFound();
-            }
-            _context.Employees.Remove(emp);
-            _context.SaveChanges();
-            return NoContent();
-        }
+        
         [HttpPut("{id:int}")]
         public IActionResult UpdateEmployee(int id, Employee updatedEmp)
         {
@@ -75,6 +64,19 @@ namespace EmployeeApp.Controllers
 
             _context.SaveChanges();
 
+            return NoContent();
+        }
+
+        [HttpDelete("{id:int}")]
+        public IActionResult DeleteEmployee(int id)
+        {
+            var emp = _context.Employees.SingleOrDefault(e => e.Id == id);
+            if (emp == null)
+            {
+                return NotFound();
+            }
+            _context.Employees.Remove(emp);
+            _context.SaveChanges();
             return NoContent();
         }
     }
