@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataStructures.Trees.BinaryTree
 {
-    public class BinaryTree<T> : IEnumerable
+    public class BinaryTree<T> : IEnumerable where T : IComparable<T>
     {
         public Node<T> Root { get; set; }
         public int Count { get; set; }
@@ -122,12 +122,98 @@ namespace DataStructures.Trees.BinaryTree
 
         public T Delete(T value)
         {
-            throw new NotImplementedException();
+            
+            if (Root == null)
+            {
+                throw new Exception("The tree is empty.");
+            }
+
+            
+            Node<T> node = Root;
+            Node<T> parent = null;
+            bool found = false;
+            while (node != null && !found)
+            {
+                if (value.Equals(node.Value))
+                {
+                    found = true;
+                }
+                else
+                {
+                    parent = node;
+                    if (value.CompareTo(node.Value) < 0)
+                    {
+                        node = node.Left;
+                    }
+                    else
+                    {
+                        node = node.Right;
+                    }
+                }
+            }
+
+            
+            if (!found)
+            {
+                throw new Exception("The value is not in the tree.");
+            }
+
+          
+            Node<T> last = Root;
+            Node<T> lastParent = null;
+            Queue<Node<T>> queue = new Queue<Node<T>>();
+            queue.Enqueue(Root);
+            while (queue.Count > 0)
+            {
+                lastParent = last;
+                last = queue.Dequeue();
+                if (last.Left != null)
+                {
+                    queue.Enqueue(last.Left);
+                }
+                if (last.Right != null)
+                {
+                    queue.Enqueue(last.Right);
+                }
+            }
+
+           
+            node.Value = last.Value;
+
+          
+            if (lastParent == null) 
+            {
+                Root = null;
+            }
+            else if (lastParent.Left == last) 
+            {
+                lastParent.Left = null;
+            }
+            else 
+            {
+                lastParent.Right = null;
+            }
+
+            
+            Count--;
+            return value;
         }
 
         public T Delete()
         {
-            throw new NotImplementedException();
+            
+            if (Root == null)
+            {
+                throw new Exception("The tree is empty.");
+            }
+
+            
+            T value = Root.Value;
+            Delete(value);
+
+            
+            return value;
         }
+
     }
 }

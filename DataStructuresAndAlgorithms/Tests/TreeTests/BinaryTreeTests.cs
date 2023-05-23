@@ -156,5 +156,39 @@ namespace TreeTests
 
             Assert.False(bt.Root.Right.IsLeaf);
         }
+
+        [Fact]
+        public void Delete_Existing_Value()
+        {
+            new int[] { 1, 2, 3, 4, 5, 6, 7 }.ToList().ForEach(x => bt.Insert(x));
+
+            int deleted = bt.Delete(3);
+
+            Assert.Equal(3, deleted);
+            Assert.Equal(6, bt.Count);
+            //Assert.Null(bt.Root.Right);
+        }
+        [Fact]
+        public void Delete_Non_Existing_Value()
+        {
+            new int[] { 1, 2, 3, 4, 5, 6, 7 }.ToList().ForEach(x => bt.Insert(x));
+
+
+            //int deleted = bt.Delete(32);
+            Assert.Throws<Exception>(() => bt.Delete(8));
+        }
+
+        [Fact]
+        public void Delete_Root_Value()
+        {
+            new int[] { 1, 2, 3, 4, 5, 6, 7 }.ToList().ForEach(x => bt.Insert(x));
+
+            var deleted = bt.Delete();
+
+            Assert.Equal(1, deleted);
+            Assert.Equal(6, bt.Count);
+            Assert.Equal(7, bt.Root.Value);
+        }
+
     }
 }
