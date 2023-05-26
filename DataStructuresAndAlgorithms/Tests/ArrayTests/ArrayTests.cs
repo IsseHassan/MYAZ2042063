@@ -1,3 +1,5 @@
+using Array;
+
 namespace ArrayTests
 {
     // Unit Test
@@ -233,6 +235,21 @@ namespace ArrayTests
 
             // Assert
             Assert.Equal("Can", item);
+        }
+        [Fact]
+        
+        public void SetValue_Test()
+        {
+            // Arrange
+            var array = new Array<int>(4);
+            var value = 10;
+            var index = 2; 
+
+            // Act
+            array.SetValue(value, index); 
+
+            // Assert
+            Assert.Equal(value, array.GetValue(index));
         }
     }
 }

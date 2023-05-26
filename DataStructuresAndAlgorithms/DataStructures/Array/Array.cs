@@ -1,8 +1,9 @@
 ﻿ using System;
 using System.Collections;
 
+
 namespace Array;
-public class Array<T> : IEnumerable
+public class Array<T> : IEnumerable<T>
 {
   
     // Object
@@ -10,10 +11,11 @@ public class Array<T> : IEnumerable
     private T[] _InnerArray; // null
     private int index = 0;
     public int Count => index;  // Dizi kaç eleman var?
+   
     public int Capacity => _InnerArray.Length;
 
 
-    public Array()
+    public Array(int size = 4)
     {
         _InnerArray = new T[4]; // Block allocation
     }
@@ -152,10 +154,64 @@ public class Array<T> : IEnumerable
         return newArray;
     }
 
-    public IEnumerator GetEnumerator()
+    public IEnumerator<T> GetEnumerator()
     {
-        return _InnerArray.GetEnumerator();
+        return new ArrayEnumerator<T>(_InnerArray);
     }
 
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        return GetEnumerator();
+    }
+    public T GetValue(int index)
+    {
+        if (!(index >= 0 && index < _InnerArray.Length))
+            throw new ArgumentOutOfRangeException();
+        return _InnerArray[index];
+    }
+    public void SetValue(T value, int index)
+    {
+        if (!(index >= 0 && index < _InnerArray.Length))
+            throw new ArgumentOutOfRangeException();
+        if (value == null)
+            throw new ArgumentNullException();
+        _InnerArray[index] = value;
+    }
 
+   
+
+    public class ArrayEnumerator<T> : IEnumerator<T>
+    {
+        private T[] _array;
+        private int index;
+
+        public ArrayEnumerator(T[] array)
+        {
+            _array = array;
+            index = -1;
+        }
+        public T Current => _array[index];
+
+        object IEnumerator.Current => Current;
+
+        public void Dispose()
+        {
+            _array = null;
+        }
+
+        public bool MoveNext()
+        {
+            if (index < _array.Length - 1)
+            {
+                index++;
+                return true;
+            }
+            return false;
+        }
+
+        public void Reset()
+        {
+            index = -1;
+        }
+    }
 }
