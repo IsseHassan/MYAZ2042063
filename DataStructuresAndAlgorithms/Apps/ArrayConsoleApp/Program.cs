@@ -1,4 +1,6 @@
-var array = new Array.Array<string>();
+using DataStructures.Array;
+
+var array = new Array<string>();
 
 
 array.Add("Ahmet");     // 0    4

@@ -28,3 +28,7 @@
     - Trees
     - Binary Trees
     - Binary Search Trees
+* week 12 - Priority Queue
+    - B-Heap
+    - Max Heap
+    - Min Heap

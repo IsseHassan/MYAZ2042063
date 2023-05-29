@@ -1,0 +1,15 @@
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\bin\Debug\net6.0\PriorityQueue.deps.json
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\bin\Debug\net6.0\PriorityQueue.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\bin\Debug\net6.0\PriorityQueue.pdb
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\bin\Debug\net6.0\Array.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\bin\Debug\net6.0\Array.pdb
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\obj\Debug\net6.0\PriorityQueue.csproj.AssemblyReference.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\obj\Debug\net6.0\PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\obj\Debug\net6.0\PriorityQueue.AssemblyInfoInputs.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\obj\Debug\net6.0\PriorityQueue.AssemblyInfo.cs
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\obj\Debug\net6.0\PriorityQueue.csproj.CoreCompileInputs.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\obj\Debug\net6.0\PriorityQueue.csproj.CopyComplete
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\obj\Debug\net6.0\PriorityQueue.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\obj\Debug\net6.0\refint\PriorityQueue.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\obj\Debug\net6.0\PriorityQueue.pdb
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\obj\Debug\net6.0\ref\PriorityQueue.dll
