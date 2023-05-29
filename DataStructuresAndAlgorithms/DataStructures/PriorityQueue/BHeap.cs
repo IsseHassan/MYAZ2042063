@@ -1,4 +1,4 @@
-﻿using Array;
+﻿using DataStructures.Array;
 using System.Collections;
 
 namespace PriorityQueue

@@ -1,8 +1,7 @@
 ﻿ using System;
 using System.Collections;
 
-
-namespace Array;
+namespace DataStructures.Array;
 public class Array<T> : IEnumerable<T>
 {
   
@@ -171,10 +170,14 @@ public class Array<T> : IEnumerable<T>
     }
     public void SetValue(T value, int index)
     {
+        /*
         if (!(index >= 0 && index < _InnerArray.Length))
             throw new ArgumentOutOfRangeException();
         if (value == null)
             throw new ArgumentNullException();
+        */
+        if (index == _InnerArray.Length)
+            DoubleArray(_InnerArray);
         _InnerArray[index] = value;
     }
 

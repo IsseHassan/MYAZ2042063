@@ -4,8 +4,14 @@ namespace PriorityQueue
 {
     public class MinHeap<T> : BHeap<T> where T : IComparable
     {
-       public MinHeap(int size = 128) : base(size) { }
-        public MinHeap(IEnumerable<T> collection) : base(collection) { }
+        public MinHeap(int _size = 128) : base(_size)
+        {
+
+        }
+        public MinHeap(IEnumerable<T> collection) : base(collection)
+        {
+
+        }
 
         protected override void HeapifyDown()
         {
@@ -13,8 +19,12 @@ namespace PriorityQueue
             while (HasLeftChild(index))
             {
                 var smallerIndex = GetLeftChildIndex(index);
-                if(HasRightChild(index)&&
-                    GetRightChild(index).CompareTo(GetLeftChild(index)) > 0)
+                if (HasRightChild(index) &&
+                    GetRightChild(index).CompareTo(GetLeftChild(index)) < 0)
+                {
+                    smallerIndex = GetRightChildIndex(index);
+                }
+                if (Array.GetValue(smallerIndex).CompareTo(Array.GetValue(index)) >= 0)
                 {
                     break;
                 }
@@ -26,7 +36,7 @@ namespace PriorityQueue
         protected override void HeapifyUp()
         {
             var index = Position - 1;
-            while(!IsRoot(index)&&
+            while (!IsRoot(index) &&
                 Array.GetValue(index).CompareTo(GetParent(index)) < 0)
             {
                 var parentIndex = GetParentIndex(index);
@@ -35,4 +45,8 @@ namespace PriorityQueue
             }
         }
     }
+
 }
+
+
+
