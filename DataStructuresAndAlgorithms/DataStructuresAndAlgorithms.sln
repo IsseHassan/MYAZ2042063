@@ -71,7 +71,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriorityQueue", "Datastruct
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PriorityQueueTests", "Tests\PriorityQueueTests\PriorityQueueTests.csproj", "{EE849E19-BA41-4BA8-BA16-65DD97550EE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BHeapAppWithProducts", "Apps\BHeapAppWithProducts\BHeapAppWithProducts.csproj", "{8EFCBC48-D03E-4873-80EC-400DF6434368}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BHeapAppWithProducts", "Apps\BHeapAppWithProducts\BHeapAppWithProducts.csproj", "{8EFCBC48-D03E-4873-80EC-400DF6434368}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
