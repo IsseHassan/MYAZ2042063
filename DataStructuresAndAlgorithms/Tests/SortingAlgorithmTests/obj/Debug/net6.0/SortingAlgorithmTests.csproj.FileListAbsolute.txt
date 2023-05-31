@@ -102,11 +102,6 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmTests\obj\Debug\net6.
 D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\SortingAlgorithmTests\obj\Debug\net6.0\ref\SortingAlgorithmTests.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\CoverletSourceRootsMapping
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.csproj.AssemblyReference.cache
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.GeneratedMSBuildEditorConfig.editorconfig
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.AssemblyInfoInputs.cache
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.AssemblyInfo.cs
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.csproj.CoreCompileInputs.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\testhost.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\testhost.exe
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -199,6 +194,11 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\Utilities.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\SortingAlgorithm.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\bin\Debug\net6.0\Utilities.pdb
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.csproj.AssemblyReference.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.AssemblyInfoInputs.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.AssemblyInfo.cs
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.csproj.CoreCompileInputs.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.csproj.CopyComplete
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\SortingAlgorithmTests.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\SortingAlgorithmTests\obj\Debug\net6.0\refint\SortingAlgorithmTests.dll
