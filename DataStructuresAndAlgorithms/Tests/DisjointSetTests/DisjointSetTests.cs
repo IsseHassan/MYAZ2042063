@@ -70,7 +70,7 @@ namespace DisjointSetTests
         }
 
         [Fact]
-        public void PathCompression_Test()   //this test is failed
+        public void PathCompression_Test()   
         {
             var disjointSet = new DistjointSets<int>();
 
