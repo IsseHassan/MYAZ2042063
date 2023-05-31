@@ -32,3 +32,5 @@
     - B-Heap
     - Max Heap
     - Min Heap
+* week 13 - Disjoint Sets
+ 
