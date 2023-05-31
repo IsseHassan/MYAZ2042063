@@ -1,9 +1,4 @@
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\CoverletSourceRootsMapping
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.csproj.AssemblyReference.cache
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.GeneratedMSBuildEditorConfig.editorconfig
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.AssemblyInfoInputs.cache
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.AssemblyInfo.cs
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.csproj.CoreCompileInputs.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\testhost.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\testhost.exe
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -96,6 +91,11 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\Tree
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\TreesEmplementation.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\TreesEmplementation.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\Trees.pdb
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.csproj.AssemblyReference.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.AssemblyInfoInputs.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.AssemblyInfo.cs
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.csproj.CoreCompileInputs.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.csproj.CopyComplete
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\refint\TreeTests.dll
