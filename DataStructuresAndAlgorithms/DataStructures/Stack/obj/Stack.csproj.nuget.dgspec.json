@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Stack\\Stack.csproj": {}
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Stack\\Stack.csproj": {}
   },
   "projects": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj": {
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj",
+        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\obj\\",
+        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Stack\\Stack.csproj": {
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Stack\\Stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Stack\\Stack.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Stack\\Stack.csproj",
         "projectName": "Stack",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Stack\\Stack.csproj",
+        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Stack\\Stack.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Stack\\obj\\",
+        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Stack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj": {
-                "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj"
+              "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj": {
+                "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\LinkedList\\LinkedList.csproj"
               }
             }
           }

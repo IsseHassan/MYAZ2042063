@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\EmployeeApp\\EmployeeApp.csproj": {}
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\EmployeeApp\\EmployeeApp.csproj": {}
   },
   "projects": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\EmployeeApp\\EmployeeApp.csproj": {
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\EmployeeApp\\EmployeeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\EmployeeApp\\EmployeeApp.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\EmployeeApp\\EmployeeApp.csproj",
         "projectName": "EmployeeApp",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\EmployeeApp\\EmployeeApp.csproj",
+        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\EmployeeApp\\EmployeeApp.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\EmployeeApp\\obj\\",
+        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\EmployeeApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\SortingAlgorithmsApp.csproj": {
-                "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\SortingAlgorithmsApp.csproj"
+              "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\SortingAlgorithmsApp.csproj": {
+                "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\SortingAlgorithmsApp.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\SortingAlgorithmsApp.csproj": {
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\SortingAlgorithmsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\SortingAlgorithmsApp.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\SortingAlgorithmsApp.csproj",
         "projectName": "SortingAlgorithmsApp",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\SortingAlgorithmsApp.csproj",
+        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\SortingAlgorithmsApp.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\obj\\",
+        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",

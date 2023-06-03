@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj",
+      "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj",
       "projectName": "TreesEmplementation",
-      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj",
+      "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj",
       "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\obj\\",
+      "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
