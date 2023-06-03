@@ -52,9 +52,6 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\ArrayConsoleApp\obj\Debug\net6.0\refi
 D:\MYAZ2042063\DataStructuresAndAlgorithms\ArrayConsoleApp\obj\Debug\net6.0\ArrayConsoleApp.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\ArrayConsoleApp\obj\Debug\net6.0\ArrayConsoleApp.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\ArrayConsoleApp\obj\Debug\net6.0\ref\ArrayConsoleApp.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\obj\Debug\net6.0\ArrayConsoleApp.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\obj\Debug\net6.0\refint\ArrayConsoleApp.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\obj\Debug\net6.0\ArrayConsoleApp.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\bin\Debug\net6.0\ArrayConsoleApp.exe
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\bin\Debug\net6.0\ArrayConsoleApp.deps.json
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\bin\Debug\net6.0\ArrayConsoleApp.runtimeconfig.json
@@ -68,5 +65,8 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\obj\Debug\net6.0
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\obj\Debug\net6.0\ArrayConsoleApp.AssemblyInfo.cs
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\obj\Debug\net6.0\ArrayConsoleApp.csproj.CoreCompileInputs.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\obj\Debug\net6.0\ArrayConsoleApp.csproj.CopyComplete
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\obj\Debug\net6.0\ArrayConsoleApp.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\obj\Debug\net6.0\refint\ArrayConsoleApp.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\obj\Debug\net6.0\ArrayConsoleApp.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\obj\Debug\net6.0\ArrayConsoleApp.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Apps\ArrayConsoleApp\obj\Debug\net6.0\ref\ArrayConsoleApp.dll

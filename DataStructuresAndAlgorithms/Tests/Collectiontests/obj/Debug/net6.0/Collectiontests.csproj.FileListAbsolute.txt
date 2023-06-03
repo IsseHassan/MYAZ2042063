@@ -295,8 +295,8 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Collectiontests\obj\Debug\net6.0\refi
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Collectiontests\obj\Debug\net6.0\Collectiontests.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Collectiontests\obj\Debug\net6.0\Collectiontests.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Collectiontests\obj\Debug\net6.0\ref\Collectiontests.dll
-D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\Collectiontests\bin\Debug\net6.0\testhost.exe
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\Collectiontests\bin\Debug\net6.0\testhost.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\Collectiontests\bin\Debug\net6.0\testhost.exe
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\Collectiontests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\Collectiontests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\Collectiontests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
