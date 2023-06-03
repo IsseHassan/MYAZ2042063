@@ -1,0 +1,12 @@
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Shared\Utilities\bin\Debug\net6.0\Utilities.deps.json
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Shared\Utilities\bin\Debug\net6.0\Utilities.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Shared\Utilities\bin\Debug\net6.0\Utilities.pdb
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Shared\Utilities\obj\Debug\net6.0\Utilities.csproj.AssemblyReference.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Shared\Utilities\obj\Debug\net6.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Shared\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfoInputs.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Shared\Utilities\obj\Debug\net6.0\Utilities.AssemblyInfo.cs
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Shared\Utilities\obj\Debug\net6.0\Utilities.csproj.CoreCompileInputs.cache
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Shared\Utilities\obj\Debug\net6.0\Utilities.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Shared\Utilities\obj\Debug\net6.0\refint\Utilities.dll
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Shared\Utilities\obj\Debug\net6.0\Utilities.pdb
+D:\MYAZ2042063\DataStructuresAndAlgorithms\Shared\Utilities\obj\Debug\net6.0\ref\Utilities.dll
