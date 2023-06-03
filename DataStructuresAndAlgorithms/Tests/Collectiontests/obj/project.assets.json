@@ -6119,11 +6119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\Collectiontests\\Collectiontests.csproj",
+      "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\Collectiontests\\Collectiontests.csproj",
       "projectName": "Collectiontests",
-      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\Collectiontests\\Collectiontests.csproj",
+      "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\Collectiontests\\Collectiontests.csproj",
       "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\Collectiontests\\obj\\",
+      "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\Collectiontests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
