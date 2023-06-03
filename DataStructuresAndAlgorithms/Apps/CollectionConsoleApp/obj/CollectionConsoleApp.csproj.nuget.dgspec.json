@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\CollectionConsoleApp\\CollectionConsoleApp.csproj": {}
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\CollectionConsoleApp\\CollectionConsoleApp.csproj": {}
   },
   "projects": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\CollectionConsoleApp\\CollectionConsoleApp.csproj": {
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\CollectionConsoleApp\\CollectionConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\CollectionConsoleApp\\CollectionConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\CollectionConsoleApp\\CollectionConsoleApp.csproj",
         "projectName": "CollectionConsoleApp",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\CollectionConsoleApp\\CollectionConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\CollectionConsoleApp\\CollectionConsoleApp.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\CollectionConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\CollectionConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",

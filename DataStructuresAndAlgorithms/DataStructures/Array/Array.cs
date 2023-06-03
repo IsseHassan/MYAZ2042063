@@ -2,7 +2,7 @@
 using System.Collections;
 
 namespace Array;
-public class Array : IEnumerable
+public class Array: IEnumerable
 {
     public Object[] InnerArray
     {
@@ -11,8 +11,8 @@ public class Array : IEnumerable
     }
     // Object
     // Type : Array
-    private Object[] _InnerArray; // null
-    private int index = 0;
+    protected Object[] _InnerArray; // null
+    protected int index = 0;
     public int Count => index;  // Dizi kaç eleman var?
     public int Capacity => _InnerArray.Length;
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\ArrayConsoleApp\\ArrayConsoleApp.csproj": {}
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\ArrayConsoleApp\\ArrayConsoleApp.csproj": {}
   },
   "projects": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\ArrayConsoleApp\\ArrayConsoleApp.csproj": {
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\ArrayConsoleApp\\ArrayConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\ArrayConsoleApp\\ArrayConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\ArrayConsoleApp\\ArrayConsoleApp.csproj",
         "projectName": "ArrayConsoleApp",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\ArrayConsoleApp\\ArrayConsoleApp.csproj",
+        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\ArrayConsoleApp\\ArrayConsoleApp.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\ArrayConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\ArrayConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj": {
-                "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj"
+              "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj": {
+                "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj": {
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj",
         "projectName": "Array",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj",
+        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\Array.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\obj\\",
+        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,15 +1,12 @@
-﻿using Array;
+﻿using System;
+using System.Collections;
+using System.Linq;
+using System.Reflection;
 
 namespace Array
 {
-    partial class ArrayProblem
+    public class ArrayProblem : Array
     {
-        public  Array array { get; set; }
-        public ArrayProblem()
-        {
-            array = new Array(default);
-        }
-      
         /// <summary>
         /// Concate fonksiyonu parametre olarak aldığı array ifadesini 
         /// mevcut dizi yapısı ile birleştirmelidir. 
@@ -18,10 +15,34 @@ namespace Array
         /// Çıktı : [1,2,3,4,5] olmalıdır. 
         /// </summary>
         /// <param name="array">Birleştirilecek diziyi temsil eder.</param>
-        public void Concate(object[] array)
+        public ArrayProblem() :base() 
         {
 
         }
+
+        public ArrayProblem(params object[] init) : base(init)
+        {
+        }
+        public void Concate(object[] array)
+        {
+            int originalLength = Count;
+            int concatLength = originalLength + array.Length;
+            var newArray = new object[concatLength];
+
+            for (int i = 0; i < originalLength; i++)
+            {
+                newArray[i] = GetItem(i);
+            }
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                newArray[originalLength + i] = array[i];
+            }
+
+            _InnerArray = newArray;
+            index = concatLength;
+
+        }
+        
     }
-    
 }
