@@ -407,8 +407,8 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ArrayTests\obj\Debug\net6.0\Arr
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ArrayTests\obj\Debug\net6.0\ArrayTests.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ArrayTests\obj\Debug\net6.0\ref\ArrayTests.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ArrayTests\bin\Debug\net6.0\CoverletSourceRootsMapping
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ArrayTests\bin\Debug\net6.0\testhost.exe
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ArrayTests\bin\Debug\net6.0\testhost.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ArrayTests\bin\Debug\net6.0\testhost.exe
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ArrayTests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ArrayTests\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\ArrayTests\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll

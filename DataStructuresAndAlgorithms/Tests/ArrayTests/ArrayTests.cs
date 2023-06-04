@@ -1,6 +1,4 @@
-using DataStructures.Array;
-
-namespace ArrayTests
+ï»¿namespace ArrayTests
 {
     // Unit Test
     public class ArrayTests
@@ -9,7 +7,7 @@ namespace ArrayTests
         public void Array_Count_Test()
         {
             // Arrange
-            var array = new Array<string>();
+            var array = new Array.Array();
             array.Add("Ahmet");
             array.Add("Mehmet");
             array.Add("Can");
@@ -26,7 +24,7 @@ namespace ArrayTests
         public void Array_Add_Test()
         {
             // Arrange
-            var array = new Array<string>();
+            var array = new Array.Array();
             array.Add("Ahmet");
             array.Add("Mehmet");
             array.Add("Can");
@@ -45,7 +43,7 @@ namespace ArrayTests
         public void Array_GetItem_Test()
         {
             // Arrange
-            var array = new Array<string>();
+            var array = new Array.Array();
             array.Add("Ahmet");
             array.Add("Mehmet");
 
@@ -60,7 +58,7 @@ namespace ArrayTests
         public void Arrry_Find_Test()
         {
             // Arrange
-            var array = new Array<int>();
+            var array = new Array.Array();
             array.Add(1);
             array.Add(2);
             array.Add(3);
@@ -77,7 +75,7 @@ namespace ArrayTests
         public void Array_GetEnumerator()
         {
             // Arrange
-            var array = new Array<string>();
+            var array = new Array.Array();
             array.Add("Ahmet");
             array.Add("Mehmet");
             array.Add("Can");
@@ -96,7 +94,7 @@ namespace ArrayTests
         public void Array_Contructor_Test()
         {
             // Arrange
-            var array = new Array<int>(36, 23, 55, 44, 61);
+            var array = new Array.Array(36, 23, 55, 44, 61);
 
             // Act
             var result = array.Capacity; // 5
@@ -115,13 +113,13 @@ namespace ArrayTests
         [Fact]
         public void Array_SetItem_Test()
         {
-            // Arrange : Düzenleme
-            var numbers = new Array<int>(1, 3, 5, 7);
+            // Arrange : Dï¿½zenleme
+            var numbers = new Array.Array(1, 3, 5, 7);
 
             // Act : Eylem
             numbers.SetItem(2, 55);
 
-            // Assert : İddia
+            // Assert : ï¿½ddia
             Assert.Equal(55, numbers.GetItem(2));
             Assert.True(numbers.GetItem(2).Equals(55));
         }
@@ -135,7 +133,7 @@ namespace ArrayTests
             try
             {
                 // Arrange
-                var array = new Array<string>();
+                var array = new Array.Array();
                 array.Add("Ahmet");
                 array.Add("Mehmet");
 
@@ -158,7 +156,7 @@ namespace ArrayTests
         public void Array_Swap_Test()
         {
             // Arrange
-            var array = new Array<string>();
+            var array = new Array.Array();
             array.Add("Ahmet");     // 0
             array.Add("Mehmet");    // 1
             array.Add("Metin");     // 2
@@ -180,7 +178,7 @@ namespace ArrayTests
         public void Array_Find_Test()
         {
             // Arrange
-            var array = new Array<string>();
+            var array = new Array.Array();
             array.Add("Ahmet"); //0
             array.Add("Mehmet");// 1
 
@@ -200,7 +198,7 @@ namespace ArrayTests
         public void Array_Remove_Test()
         {
             // Arrange
-            var array = new Array<int>();
+            var array = new Array.Array();
             array.Add(0);   // 0
             array.Add(1);   // 1
             array.Add(2);   // 2
@@ -222,7 +220,7 @@ namespace ArrayTests
         public void Array_Copy_Test()
         {
             // Arrange
-            var array = new Array<string>();
+            var array = new Array.Array();
 
             array.Add("Ahmet");     // 0
             array.Add("Mehmet");    // 1
@@ -235,21 +233,6 @@ namespace ArrayTests
 
             // Assert
             Assert.Equal("Can", item);
-        }
-        [Fact]
-        
-        public void SetValue_Test()
-        {
-            // Arrange
-            var array = new Array<int>(4);
-            var value = 10;
-            var index = 2; 
-
-            // Act
-            array.SetValue(value, index); 
-
-            // Assert
-            Assert.Equal(value, array.GetValue(index));
         }
     }
 }

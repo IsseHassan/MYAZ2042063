@@ -34,3 +34,15 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\n
 D:\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\net6.0\refint\LinkedList.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\net6.0\ref\LinkedList.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\bin\Debug\net6.0\LinkedList.deps.json
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\bin\Debug\net6.0\LinkedList.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\bin\Debug\net6.0\LinkedList.pdb
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.csproj.AssemblyReference.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.AssemblyInfo.cs
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\net6.0\refint\LinkedList.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\net6.0\LinkedList.pdb
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\LinkedList\obj\Debug\net6.0\ref\LinkedList.dll
