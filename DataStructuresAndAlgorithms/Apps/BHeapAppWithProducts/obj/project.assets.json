@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\BHeapAppWithProducts\\BHeapAppWithProducts.csproj",
+      "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\BHeapAppWithProducts\\BHeapAppWithProducts.csproj",
       "projectName": "BHeapAppWithProducts",
-      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\BHeapAppWithProducts\\BHeapAppWithProducts.csproj",
+      "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\BHeapAppWithProducts\\BHeapAppWithProducts.csproj",
       "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\BHeapAppWithProducts\\obj\\",
+      "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Apps\\BHeapAppWithProducts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,8 +71,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\PriorityQueue\\PriorityQueue.csproj": {
-              "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\PriorityQueue\\PriorityQueue.csproj"
+            "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\PriorityQueue\\PriorityQueue.csproj": {
+              "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\PriorityQueue\\PriorityQueue.csproj"
             }
           }
         }

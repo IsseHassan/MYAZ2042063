@@ -1,4 +1,4 @@
-﻿using DataStructures.Array;
+﻿using Array;
 using Queue.Contract;
 using System;
 using System.Collections.Generic;

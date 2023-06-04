@@ -6153,11 +6153,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\PriorityQueueTests\\PriorityQueueTests.csproj",
+      "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\PriorityQueueTests\\PriorityQueueTests.csproj",
       "projectName": "PriorityQueueTests",
-      "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\PriorityQueueTests\\PriorityQueueTests.csproj",
+      "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\PriorityQueueTests\\PriorityQueueTests.csproj",
       "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-      "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\PriorityQueueTests\\obj\\",
+      "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\PriorityQueueTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6174,8 +6174,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\PriorityQueue\\PriorityQueue.csproj": {
-              "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\PriorityQueue\\PriorityQueue.csproj"
+            "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\PriorityQueue\\PriorityQueue.csproj": {
+              "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\PriorityQueue\\PriorityQueue.csproj"
             }
           }
         }

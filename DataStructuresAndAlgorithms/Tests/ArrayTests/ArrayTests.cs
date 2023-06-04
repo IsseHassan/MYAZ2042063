@@ -1,4 +1,4 @@
-using DataStructures.Array;
+using Array;
 
 namespace ArrayTests
 {

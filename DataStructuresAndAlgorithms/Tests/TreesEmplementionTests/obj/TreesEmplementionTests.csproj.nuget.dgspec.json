@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\TreesEmplementionTests\\TreesEmplementionTests.csproj": {}
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\TreesEmplementionTests\\TreesEmplementionTests.csproj": {}
   },
   "projects": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj": {
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj",
         "projectName": "TreesEmplementation",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj",
+        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\obj\\",
+        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\TreesEmplementionTests\\TreesEmplementionTests.csproj": {
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\TreesEmplementionTests\\TreesEmplementionTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\TreesEmplementionTests\\TreesEmplementionTests.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\TreesEmplementionTests\\TreesEmplementionTests.csproj",
         "projectName": "TreesEmplementionTests",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\TreesEmplementionTests\\TreesEmplementionTests.csproj",
+        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\TreesEmplementionTests\\TreesEmplementionTests.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\TreesEmplementionTests\\obj\\",
+        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\TreesEmplementionTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj": {
-                "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj"
+              "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj": {
+                "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\TreesEmplementation\\TreesEmplementation.csproj"
               }
             }
           }

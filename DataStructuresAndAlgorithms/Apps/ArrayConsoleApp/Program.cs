@@ -1,4 +1,4 @@
-using DataStructures.Array;
+using Array;
 
 var array = new Array<string>();
 

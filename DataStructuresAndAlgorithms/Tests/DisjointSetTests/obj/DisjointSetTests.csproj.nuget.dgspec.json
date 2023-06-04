@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\DisjointSetTests\\DisjointSetTests.csproj": {}
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\DisjointSetTests\\DisjointSetTests.csproj": {}
   },
   "projects": {
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\DisjointSet\\DisjointSet.csproj": {
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\DisjointSet\\DisjointSet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\DisjointSet\\DisjointSet.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\DisjointSet\\DisjointSet.csproj",
         "projectName": "DisjointSet",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\DisjointSet\\DisjointSet.csproj",
+        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\DisjointSet\\DisjointSet.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\DisjointSet\\obj\\",
+        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\DisjointSet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\DisjointSetTests\\DisjointSetTests.csproj": {
+    "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\DisjointSetTests\\DisjointSetTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\DisjointSetTests\\DisjointSetTests.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\DisjointSetTests\\DisjointSetTests.csproj",
         "projectName": "DisjointSetTests",
-        "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\DisjointSetTests\\DisjointSetTests.csproj",
+        "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\DisjointSetTests\\DisjointSetTests.csproj",
         "packagesPath": "C:\\Users\\cadey\\.nuget\\packages\\",
-        "outputPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\DisjointSetTests\\obj\\",
+        "outputPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Tests\\DisjointSetTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cadey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\DisjointSet\\DisjointSet.csproj": {
-                "projectPath": "D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\DisjointSet\\DisjointSet.csproj"
+              "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\DisjointSet\\DisjointSet.csproj": {
+                "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\DataStructures\\DisjointSet\\DisjointSet.csproj"
               }
             }
           }

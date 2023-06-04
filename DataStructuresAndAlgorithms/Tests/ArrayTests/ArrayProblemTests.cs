@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Array;
 
 namespace ArrayTests
 {
@@ -12,13 +8,13 @@ namespace ArrayTests
         public void Array_Concate_Test()
         {
             // Arrange
-            var arrayProblem = new Array.ArrayProblem();
+            var arrayProblem = new Array.ArrayProblem<int>();
             arrayProblem.Add(1);
             arrayProblem.Add(2);
             arrayProblem.Add(3);
 
             //Act
-            arrayProblem.Concate(new object[] { 4, 5 });
+            arrayProblem.Concate(new int[] { 4, 5 });
 
             //Assert
             Assert.Equal(5, arrayProblem.Count); 

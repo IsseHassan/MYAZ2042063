@@ -10,3 +10,15 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\ob
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\obj\Debug\net6.0\refint\TreesEmplementation.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\obj\Debug\net6.0\TreesEmplementation.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\obj\Debug\net6.0\ref\TreesEmplementation.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\bin\Debug\net6.0\TreesEmplementation.deps.json
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\bin\Debug\net6.0\TreesEmplementation.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\bin\Debug\net6.0\TreesEmplementation.pdb
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\obj\Debug\net6.0\TreesEmplementation.csproj.AssemblyReference.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\obj\Debug\net6.0\TreesEmplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\obj\Debug\net6.0\TreesEmplementation.AssemblyInfoInputs.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\obj\Debug\net6.0\TreesEmplementation.AssemblyInfo.cs
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\obj\Debug\net6.0\TreesEmplementation.csproj.CoreCompileInputs.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\obj\Debug\net6.0\TreesEmplementation.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\obj\Debug\net6.0\refint\TreesEmplementation.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\obj\Debug\net6.0\TreesEmplementation.pdb
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\TreesEmplementation\obj\Debug\net6.0\ref\TreesEmplementation.dll
