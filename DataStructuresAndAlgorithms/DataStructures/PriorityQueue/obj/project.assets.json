@@ -11,6 +11,16 @@
         "runtime": {
           "bin/placeholder/Array.dll": {}
         }
+      },
+      "Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utilities.dll": {}
+        }
       }
     }
   },
@@ -19,11 +29,17 @@
       "type": "project",
       "path": "../Array/Array.csproj",
       "msbuildProject": "../Array/Array.csproj"
+    },
+    "Utilities/1.0.0": {
+      "type": "project",
+      "path": "../../Shared/Utilities/Utilities.csproj",
+      "msbuildProject": "../../Shared/Utilities/Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Array >= 1.0.0"
+      "Array >= 1.0.0",
+      "Utilities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -55,6 +71,9 @@
           "projectReferences": {
             "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\Array\\Array.csproj": {
               "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Datastructures\\Array\\Array.csproj"
+            },
+            "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Shared\\Utilities\\Utilities.csproj": {
+              "projectPath": "C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\Shared\\Utilities\\Utilities.csproj"
             }
           }
         }

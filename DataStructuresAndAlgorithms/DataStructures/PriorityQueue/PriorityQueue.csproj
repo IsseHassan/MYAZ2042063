@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\Shared\Utilities\Utilities.csproj" />
     <ProjectReference Include="..\Array\Array.csproj" />
   </ItemGroup>
 

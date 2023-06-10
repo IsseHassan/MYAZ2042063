@@ -105,6 +105,11 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\Que
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\ref\QueueTests.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.csproj.AssemblyReference.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.AssemblyInfoInputs.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.AssemblyInfo.cs
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.csproj.CoreCompileInputs.cache
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\bin\Debug\net6.0\testhost.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\bin\Debug\net6.0\testhost.exe
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -199,11 +204,6 @@ C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\bin\Deb
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\bin\Debug\net6.0\Queue.pdb
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\bin\Debug\net6.0\Array.pdb
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\bin\Debug\net6.0\LinkedList.pdb
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.csproj.AssemblyReference.cache
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.AssemblyInfoInputs.cache
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.AssemblyInfo.cs
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.csproj.CoreCompileInputs.cache
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.csproj.CopyComplete
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\QueueTests.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\QueueTests\obj\Debug\net6.0\refint\QueueTests.dll

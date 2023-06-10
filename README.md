@@ -33,4 +33,8 @@
     - Max Heap
     - Min Heap
 * week 13 - Disjoint Sets
+* week 14 - Graph
+    - Adjancency Set
+    - Minimun Spanning Tree
+    - Search
  

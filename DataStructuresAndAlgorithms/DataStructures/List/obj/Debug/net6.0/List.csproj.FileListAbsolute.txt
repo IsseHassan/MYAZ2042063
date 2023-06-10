@@ -34,3 +34,15 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\
 D:\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\refint\List.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\List.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\ref\List.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\bin\Debug\net6.0\List.deps.json
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\bin\Debug\net6.0\List.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\bin\Debug\net6.0\List.pdb
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\List.csproj.AssemblyReference.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\List.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\refint\List.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\List.pdb
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\List\obj\Debug\net6.0\ref\List.dll

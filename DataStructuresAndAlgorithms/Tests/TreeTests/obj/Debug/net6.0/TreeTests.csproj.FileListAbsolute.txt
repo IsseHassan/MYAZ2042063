@@ -103,6 +103,11 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\Tree
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.genruntimeconfig.cache
 D:\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\ref\TreeTests.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.csproj.AssemblyReference.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.AssemblyInfoInputs.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.AssemblyInfo.cs
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.csproj.CoreCompileInputs.cache
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\testhost.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\testhost.exe
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
@@ -195,11 +200,6 @@ C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debu
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\TreesEmplementation.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\TreesEmplementation.pdb
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\bin\Debug\net6.0\Trees.pdb
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.csproj.AssemblyReference.cache
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.AssemblyInfoInputs.cache
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.AssemblyInfo.cs
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.csproj.CoreCompileInputs.cache
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.csproj.CopyComplete
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\TreeTests.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Tests\TreeTests\obj\Debug\net6.0\refint\TreeTests.dll

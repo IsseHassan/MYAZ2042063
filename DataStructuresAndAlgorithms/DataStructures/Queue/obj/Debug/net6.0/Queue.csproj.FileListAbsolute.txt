@@ -15,6 +15,11 @@ D:\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0
 D:\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\refint\Queue.dll
 D:\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.pdb
 D:\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\ref\Queue.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\bin\Debug\net6.0\Queue.deps.json
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\bin\Debug\net6.0\Queue.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\bin\Debug\net6.0\Queue.pdb
@@ -22,11 +27,6 @@ C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\bin
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\bin\Debug\net6.0\LinkedList.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\bin\Debug\net6.0\Array.pdb
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\bin\Debug\net6.0\LinkedList.pdb
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.csproj.AssemblyReference.cache
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.AssemblyInfoInputs.cache
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.AssemblyInfo.cs
-C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.csproj.CoreCompileInputs.cache
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.csproj.CopyComplete
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\Queue.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\DataStructures\Queue\obj\Debug\net6.0\refint\Queue.dll
