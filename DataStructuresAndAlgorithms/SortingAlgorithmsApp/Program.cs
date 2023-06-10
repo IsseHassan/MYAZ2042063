@@ -15,7 +15,7 @@ class Program
         int option = int.Parse(Console.ReadLine());
 
         // Create a connection to the database file
-        string connectionString = "Data Source=D:\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\Employee.db";
+        string connectionString = "Data Source=C:\\Users\\Public\\MYAZ2042063\\DataStructuresAndAlgorithms\\SortingAlgorithmsApp\\Employee.db";
         using (var connection = new SqliteConnection(connectionString))
         {
             connection.Open();
@@ -65,7 +65,7 @@ class Program
             }
             
            
-            Console.WriteLine("ID\tFirst Name\tLast Name\tSalary\tTitle");
+            Console.WriteLine("ID\tFirst Name\tLast Name\tSalary");
             foreach (var employee in employees)
             {
                 Console.WriteLine($"{employee.Id,-7} {employee.FirstName,-15} {employee.LastName,-15} {employee.Salary,-10}");

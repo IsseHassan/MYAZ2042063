@@ -1823,13 +1823,24 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Array": "1.0.0"
+          "Array": "1.0.0",
+          "Utilities": "1.0.0"
         },
         "compile": {
           "bin/placeholder/PriorityQueue.dll": {}
         },
         "runtime": {
           "bin/placeholder/PriorityQueue.dll": {}
+        }
+      },
+      "Utilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Utilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Utilities.dll": {}
         }
       }
     }
@@ -6136,6 +6147,11 @@
       "type": "project",
       "path": "../../Datastructures/PriorityQueue/PriorityQueue.csproj",
       "msbuildProject": "../../Datastructures/PriorityQueue/PriorityQueue.csproj"
+    },
+    "Utilities/1.0.0": {
+      "type": "project",
+      "path": "../../Shared/Utilities/Utilities.csproj",
+      "msbuildProject": "../../Shared/Utilities/Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {

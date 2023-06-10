@@ -17,6 +17,8 @@ C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQ
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\bin\Debug\net6.0\PriorityQueue.dll
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\bin\Debug\net6.0\PriorityQueue.pdb
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\bin\Debug\net6.0\Array.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\bin\Debug\net6.0\Utilities.dll
+C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\bin\Debug\net6.0\Utilities.pdb
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\bin\Debug\net6.0\Array.pdb
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\obj\Debug\net6.0\PriorityQueue.csproj.AssemblyReference.cache
 C:\Users\Public\MYAZ2042063\DataStructuresAndAlgorithms\Datastructures\PriorityQueue\obj\Debug\net6.0\PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig

@@ -21,10 +21,16 @@
       },
       "PriorityQueue/1.0.0": {
         "dependencies": {
-          "Array": "1.0.0"
+          "Array": "1.0.0",
+          "Utilities": "1.0.0"
         },
         "runtime": {
           "PriorityQueue.dll": {}
+        }
+      },
+      "Utilities/1.0.0": {
+        "runtime": {
+          "Utilities.dll": {}
         }
       }
     }
@@ -41,6 +47,11 @@
       "sha512": ""
     },
     "PriorityQueue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utilities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
